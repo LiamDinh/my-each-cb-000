@@ -5,5 +5,5 @@ def my_each(collection) # put argument(s) here
     yieild collection[i]
     i += 1
   end
-  array 
+  collection 
 end
